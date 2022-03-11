@@ -5,7 +5,7 @@
 Lập trình là việc điều khiển máy tính thực hiện một nhiệm vụ nào đó bằng các dòng lệnh. Lập trình được sinh ra để giải quyết các vấn đề từ đơn giản đến phức tạp để tiết kiệm thời gian của con người.
 Lập trình được ứng dụng rộng rãi trong nhiều lĩnh vực khác nhau đặc biệt là trong các lĩnh vực về Khoa học - Kỹ thuật. Ngày nay, lập trình không chỉ là công việc của các lập trình viên, ai cũng đều nên biết về lập trình và biến nó thành trợ thủ đắc lực cho công việc của mình. Huyền thoại Steve Jobs đã từng nói rằng: “Ai cũng nên học lập trình“.
 
-Xuất phát từ những lý do quan trọng của việc học lập trình, tôi biên soạn tài liệu "Lập trình python dùng trong kỹ thuật" tập trung vào việc giới thiệu và hướng dẫn sử dụng python - ngôn ngữ phổ biến vì đơn giản và dễ tiếp cận với tất cả mọi người và giới thiệu, hướng dẫn sử dụng các thư viện dùng trong các ngành kỹ thuật như **numpy** và **scipy** cùng với kỹ thuật visualize dữ liệu bằng matplotlib.
+Xuất phát từ những lý do quan trọng của việc học lập trình, tôi biên soạn tài liệu "Lập trình python dùng trong kỹ thuật" tập trung vào việc giới thiệu và hướng dẫn sử dụng python - ngôn ngữ phổ biến vì đơn giản và dễ tiếp cận với tất cả mọi người và giới thiệu, hướng dẫn sử dụng các thư viện dùng trong các ngành kỹ thuật như **numpy** và **scipy** cùng với kỹ thuật visualize dữ liệu bằng **matplotlib**.
 
  Ngoài ra cuốn sách cũng cung cấp jupyter notebook đi kèm từng phần để người đọc dễ dàng thực hành các nội dung trong cuốn sách.
  
